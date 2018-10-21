@@ -1,6 +1,6 @@
 ## Must-read papers on Machine Reading Comprehension.
 
-Contributed by [Yankai LIn](http://www.thunlp.org/~lyk/), Haoze Ji and Deming Ye
+Contributed by [Yankai LIn](http://www.thunlp.org/~lyk/), Deming Ye and Haoze Ji. 
 
 
 ### Model Architecture
