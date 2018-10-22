@@ -7,14 +7,14 @@ Contributed by [Yankai LIn](http://www.thunlp.org/~lyk/), Deming Ye and Haoze Ji
 
 1.   **Memory networks.** Jason Weston, Sumit Chopra, and Antoine Bordes. arXiv preprint arXiv:1410.3916 (2014). [paper](https://arxiv.org/pdf/1410.3916)
 2. **Teaching Machines to Read and Comprehend.** Hermann, Karl Moritz, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, and Phil Blunsom. NIPS 2015. [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
-3.  **Text Understanding with the Attention Sum Reader Network.** Rudolf Kadlec, Martin Schmid, Ondrej Bajgar, and Jan Kleindienst. ACL 2016 [paper](http://www.aclweb.org/anthology/P16-1086)
+3.  **Text Understanding with the Attention Sum Reader Network.** Rudolf Kadlec, Martin Schmid, Ondrej Bajgar, and Jan Kleindienst. ACL 2016. [paper](http://www.aclweb.org/anthology/P16-1086)
 4. **A Thorough Examination of the Cnn/Daily Mail Reading Comprehension Task.**  Danqi Chen, Jason Bolton, and Christopher D. Manning. ACL 2016. [paper](https://www.aclweb.org/anthology/P16-1223)
-4. **Long Short-Term Memory-Networks for Machine Reading.** Jianpeng Cheng, Li Dong, and Mirella Lapata. EMNLP 2016 [paper](https://aclweb.org/anthology/D16-1053)
+4. **Long Short-Term Memory-Networks for Machine Reading.** Jianpeng Cheng, Li Dong, and Mirella Lapata. EMNLP 2016. [paper](https://aclweb.org/anthology/D16-1053)
 4.  **Key-value Memory Networks for Directly Reading Documents.** Alexander  Miller, Adam Fisch, Jesse Dodge, Amir-Hossein Karimi, Antoine Bordes, and Jason Weston. EMNLP 2016. [paper](http://www.aclweb.org/anthology/D16-1147)
-5. **Modeling Human Reading with Neural Attention.** Michael Hahn and Frank Keller. EMNLP 2016 [paper](http://www.aclweb.org/anthology/D16-1009) 
-6. **Learning Recurrent Span Representations for Extractive Question Answering** Kenton Lee, Shimi Salant, Tom Kwiatkowski, Ankur Parikh, Dipanjan Das, and Jonathan Berant. arXiv preprint arXiv:1611.01436 (2016) [paper](https://arxiv.org/pdf/1611.01436)
-7. **Multi-Perspective Context Matching for Machine Comprehension.** Zhiguo Wang, Haitao Mi, Wael Hamza, and Radu Florian. arXiv preprint arXiv:1612.04211[paper](https://arxiv.org/pdf/1612.04211)
-5. **Natural Language Comprehension with the Epireader.** Adam Trischler, Zheng Ye, Xingdi Yuan, and Kaheer Suleman. EMNLP 2016 [paper](https://www.aclweb.org/anthology/D16-1013)
+5. **Modeling Human Reading with Neural Attention.** Michael Hahn and Frank Keller. EMNLP 2016. [paper](http://www.aclweb.org/anthology/D16-1009) 
+6. **Learning Recurrent Span Representations for Extractive Question Answering** Kenton Lee, Shimi Salant, Tom Kwiatkowski, Ankur Parikh, Dipanjan Das, and Jonathan Berant. arXiv preprint arXiv:1611.01436 (2016). [paper](https://arxiv.org/pdf/1611.01436)
+7. **Multi-Perspective Context Matching for Machine Comprehension.** Zhiguo Wang, Haitao Mi, Wael Hamza, and Radu Florian. arXiv preprint arXiv:1612.04211. [paper](https://arxiv.org/pdf/1612.04211)
+5. **Natural Language Comprehension with the Epireader.** Adam Trischler, Zheng Ye, Xingdi Yuan, and Kaheer Suleman. EMNLP 2016. [paper](https://www.aclweb.org/anthology/D16-1013)
 6. **Iterative Alternating Neural Attention for Machine Reading.** Alessandro Sordoni, Philip Bachman, Adam Trischler, and Yoshua Bengio. arXiv preprint arXiv:1606.02245 (2016). [paper](https://arxiv.org/pdf/1606.02245)
 7. **Bidirectional Attention Flow for Machine Comprehension.** Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, and Hannaneh Hajishirzi. ICLR 2017. [paper](https://arxiv.org/pdf/1611.01603.pdf)
 8. **Machine Comprehension Using Match-lstm and Answer Pointer.** Shuohang Wang and Jing Jiang. arXiv preprint arXiv:1608.07905 (2016). [paper](https://arxiv.org/pdf/1608.07905)
@@ -44,21 +44,21 @@ Contributed by [Yankai LIn](http://www.thunlp.org/~lyk/), Deming Ye and Haoze Ji
 27. **S-NET: From Answer Extraction to Answer Generation for Machine Reading Comprehension.** Chuanqi Tan, Furu Wei, Nan Yang, Bowen Du, Weifeng Lv, and  Ming Zhou. AAAI2018. [paper](https://arxiv.org/abs/1706.04815)
 28. **Ask the Right Questions: Active Question Reformulation with Reinforcement Learning.** Christian Buck, Jannis Bulian, Massimiliano Ciaramita, Wojciech Gajewski, Andrea Gesmundo, Neil Houlsby, and Wei Wang. ICLR2018. [paper](https://arxiv.org/abs/1705.07830)
 29. **QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension.** Adams Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, and Quoc V. Le. ICLR2018. [paper](https://arxiv.org/abs/1804.09541)
-30. **Read + Verify: Machine Reading Comprehension with Unanswerable Questions.** Minghao Hu, Furu Wei, Yuxing Peng, Zhen Huang, Nan Yang, and Ming Zhou. NAACL2018 [paper](https://arxiv.org/abs/1808.05759)
+30. **Read + Verify: Machine Reading Comprehension with Unanswerable Questions.** Minghao Hu, Furu Wei, Yuxing Peng, Zhen Huang, Nan Yang, and Ming Zhou. NAACL2018. [paper](https://arxiv.org/abs/1808.05759)
 
 
 ### Utilizing Extenal Knolwedge
 1.  **Leveraging Knowledge Bases in LSTMs for Improving Machine Reading.** Bishan Yang and Tom Mitchell. ACL 2017. [paper](http://aclweb.org/anthology/P17-1132)
 2. **Learned in Translation: Contextualized Word Vectors.** Bryan McCann, James Bradbury, Caiming Xiong, and Richard Socher. arXiv preprint arXiv:1708.00107 (2017). [paper](https://arxiv.org/pdf/1708.00107)
 3. **Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge.** Todor Mihaylov and Anette Frank. ACL 2018. [paper](http://aclweb.org/anthology/P18-1076)
-4. **A Comparative Study of Word Embeddings for Reading Comprehension.** Bhuwan Dhingra, Hanxiao Liu, Ruslan Salakhutdinov, and William W. Cohen. [paper](https://arxiv.org/pdf/1703.00993)
+4. **A Comparative Study of Word Embeddings for Reading Comprehension.** Bhuwan Dhingra, Hanxiao Liu, Ruslan Salakhutdinov, and William W. Cohen. arXiv preprint arXiv:1703.00993 (2017). [paper](https://arxiv.org/pdf/1703.00993)
 5. **Deep contextualized word representations.** Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, and Luke Zettlemoyer. NAACL 2018. [paper](http://aclweb.org/anthology/N18-1202)
 6. **Improving Language Understanding by Generative Pre-Training.** Alec Radford, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. OpenAI. [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 6. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.** Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. arXiv preprint arXiv:1810.04805 (2018). [paper](https://arxiv.org/pdf/1810.04805.pdf)
 
 ### Exploration
 1. **Adversarial Examples for Evaluating Reading Comprehension Systems.** Robin Jia, and Percy Liang. EMNLP 2017. [paper](https://web.stanford.edu/~robinjia/pdf/emnlp2017-adversarial.pdf)
-2. **Did the Model Understand the Question?** Pramod Kaushik Mudrakarta, Ankur Taly, Mukund Sundararajan, and Kedar Dhamdhere. ACL 2018 [paper](http://aclweb.org/anthology/P18-1176)
+2. **Did the Model Understand the Question?** Pramod Kaushik Mudrakarta, Ankur Taly, Mukund Sundararajan, and Kedar Dhamdhere. ACL 2018.  [paper](http://aclweb.org/anthology/P18-1176)
 
 ### Open Domain Question Answering
 1. **Reading Wikipedia to Answer Open-Domain Questions.** Danqi Chen, Adam Fisch, Jason Weston, and Antoine Bordes. ACL 2017. [paper](http://aclweb.org/anthology/P17-1171)
@@ -89,10 +89,10 @@ Matthew Dunn, Levent Sagun, Mike Higgins, V. Ugur Guney, Volkan Cirik, and Kyung
 14. (NewsQA) **NewsQA: A Machine Comprehension Dataset.** Adam Trischler, Tong Wang, Xingdi Yuan, Justin Harris, Alessandro Sordoni, Philip Bachman, and Kaheer Suleman. arXiv preprint arXiv:1611.09830 (2016). [paper](https://arxiv.org/pdf/1611.09830)
 15. (RACE) **RACE: Large-scale ReAding Comprehension Dataset From Examinations.** Guokun Lai, Qizhe Xie, Hanxiao Liu, Yiming Yang, and Eduard Hovy. EMNLP 2017. [paper](http://aclweb.org/anthology/D17-1082)
 16. (ARC) **Think you have Solved Question Answering?Try ARC, the AI2 Reasoning Challenge.** Peter Clark, Isaac Cowhey, Oren Etzioni, Tushar Khot,Ashish Sabharwal, Carissa Schoenick, and Oyvind Tafjord. arXiv preprint arXiv:1803.05457 (2018). [paper](https://arxiv.org/pdf/1803.05457)
-17. (MCScript) **MCScript: A Novel Dataset for Assessing Machine Comprehension Using Script Knowledge.** Simon Ostermann, Ashutosh Modi, Michael Roth, Stefan Thater, and Manfred Pinkal. arXiv preprint 1803.05223  [paper](https://arxiv.org/pdf/1803.05223.pdf)
+17. (MCScript) **MCScript: A Novel Dataset for Assessing Machine Comprehension Using Script Knowledge.** Simon Ostermann, Ashutosh Modi, Michael Roth, Stefan Thater, and Manfred Pinkal. arXiv preprint arXiv:1803.05223.  [paper](https://arxiv.org/pdf/1803.05223.pdf)
 18. (NarrativeQA) **The NarrativeQA Reading Comprehension Challenge**.
 Tomáš Kočiský, Jonathan Schwarz, Phil Blunsom, Chris Dyer, Karl Moritz Hermann, Gábor Melis, and Edward Grefenstette. TACL 2018. [paper](http://aclweb.org/anthology/Q18-1023)
 19. (DuoRC) **DuoRC: Towards Complex Language Understanding with Paraphrased Reading Comprehension.** Amrita Saha, Rahul Aralikatte, Mitesh M. Khapra, and Karthik Sankaranarayanan. ACL 2018. [paper](http://aclweb.org/anthology/P18-1156)
 20. (CLOTH) **Large-scale Cloze Test Dataset Created by Teachers.** Qizhe Xie, Guokun Lai, Zihang Dai, and Eduard Hovy. EMNLP 2018. [paper](https://arxiv.org/pdf/1711.03225)
 21. (DuReader) **DuReader: a Chinese Machine Reading Comprehension Dataset from
-Real-world Applications.** Wei He, Kai Liu, Yajuan Lyu, Shiqi Zhao, Xinyan Xiao, Yuan Liu, Yizhong Wang, Hua Wu, Qiaoqiao She, Xuan Liu, Tian Wu, and Haifeng Wang. ACL 2018 Workshop [paper](https://arxiv.org/abs/1711.05073)
+Real-world Applications.** Wei He, Kai Liu, Yajuan Lyu, Shiqi Zhao, Xinyan Xiao, Yuan Liu, Yizhong Wang, Hua Wu, Qiaoqiao She, Xuan Liu, Tian Wu, and Haifeng Wang. ACL 2018 Workshop. [paper](https://arxiv.org/abs/1711.05073)
