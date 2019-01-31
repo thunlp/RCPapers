@@ -6,7 +6,7 @@ Contributed by [Yankai Lin](http://www.thunlp.org/~lyk/), Deming Ye and Haoze Ji
 ### Model Architecture
 
 1.   **Memory networks.** Jason Weston, Sumit Chopra, and Antoine Bordes. arXiv preprint arXiv:1410.3916 (2014). [paper](https://arxiv.org/pdf/1410.3916)
-2. **Teaching Machines to Read and Comprehend.** Hermann, Karl Moritz, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, and Phil Blunsom. NIPS 2015. [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
+2. **Teaching Machines to Read and Comprehend.** Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, and Phil Blunsom. NIPS 2015. [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
 3.  **Text Understanding with the Attention Sum Reader Network.** Rudolf Kadlec, Martin Schmid, Ondrej Bajgar, and Jan Kleindienst. ACL 2016. [paper](http://www.aclweb.org/anthology/P16-1086)
 4. **A Thorough Examination of the Cnn/Daily Mail Reading Comprehension Task.**  Danqi Chen, Jason Bolton, and Christopher D. Manning. ACL 2016. [paper](https://www.aclweb.org/anthology/P16-1223)
 4. **Long Short-Term Memory-Networks for Machine Reading.** Jianpeng Cheng, Li Dong, and Mirella Lapata. EMNLP 2016. [paper](https://aclweb.org/anthology/D16-1053)
