@@ -47,7 +47,7 @@ Contributed by [Yankai Lin](http://www.thunlp.org/~lyk/), Deming Ye and Haozhe J
 30. **Read + Verify: Machine Reading Comprehension with Unanswerable Questions.** Minghao Hu, Furu Wei, Yuxing Peng, Zhen Huang, Nan Yang, and Ming Zhou. AAAI2019. [paper](https://arxiv.org/abs/1808.05759)
 
 
-### Utilizing Extenal Knolwedge
+### Utilizing Extenal Knowledge
 1.  **Leveraging Knowledge Bases in LSTMs for Improving Machine Reading.** Bishan Yang and Tom Mitchell. ACL 2017. [paper](http://aclweb.org/anthology/P17-1132)
 2. **Learned in Translation: Contextualized Word Vectors.** Bryan McCann, James Bradbury, Caiming Xiong, and Richard Socher. arXiv preprint arXiv:1708.00107 (2017). [paper](https://arxiv.org/pdf/1708.00107)
 3. **Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge.** Todor Mihaylov and Anette Frank. ACL 2018. [paper](http://aclweb.org/anthology/P18-1076)
