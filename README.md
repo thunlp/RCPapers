@@ -100,4 +100,4 @@ Tomáš Kočiský, Jonathan Schwarz, Phil Blunsom, Chris Dyer, Karl Moritz Herma
 21. (DuReader) **DuReader: a Chinese Machine Reading Comprehension Dataset from
 Real-world Applications.** Wei He, Kai Liu, Yajuan Lyu, Shiqi Zhao, Xinyan Xiao, Yuan Liu, Yizhong Wang, Hua Wu, Qiaoqiao She, Xuan Liu, Tian Wu, and Haifeng Wang. ACL 2018 Workshop. [paper](https://arxiv.org/abs/1711.05073)
 22. (CliCR) **CliCR: a Dataset of Clinical Case Reports for Machine Reading Comprehension.** Simon Suster and Walter Daelemans. NAACL 2018. [paper](http://aclweb.org/anthology/N18-1140) 
-23. (QUOREF) **Quoref: A Reading Comprehension Dataset with Questions Requiring Coreferential Reasoning.** Pradeep Dasigi, Nelson F. Liu, Ana Marasović, Noah A. Smith, Matt Gardner. EMNLP2019 [paper](https://arxiv.org/abs/1908.05803) 
+23. (QUOREF) **Quoref: A Reading Comprehension Dataset with Questions Requiring Coreferential Reasoning.** Pradeep Dasigi, Nelson F. Liu, Ana Marasović, Noah A. Smith, Matt Gardner. EMNLP2019. [paper](https://arxiv.org/abs/1908.05803) 
