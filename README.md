@@ -45,6 +45,8 @@ Contributed by [Yankai Lin](http://www.thunlp.org/~lyk/), Deming Ye and Haozhe J
 28. **Ask the Right Questions: Active Question Reformulation with Reinforcement Learning.** Christian Buck, Jannis Bulian, Massimiliano Ciaramita, Wojciech Gajewski, Andrea Gesmundo, Neil Houlsby, and Wei Wang. ICLR2018. [paper](https://arxiv.org/abs/1705.07830)
 29. **QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension.** Adams Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, and Quoc V. Le. ICLR2018. [paper](https://arxiv.org/abs/1804.09541)
 30. **Read + Verify: Machine Reading Comprehension with Unanswerable Questions.** Minghao Hu, Furu Wei, Yuxing Peng, Zhen Huang, Nan Yang, and Ming Zhou. AAAI2019. [paper](https://arxiv.org/abs/1808.05759)
+31. **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering.** Akari Asai, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, Caiming Xiong. [paper](https://arxiv.org/abs/1911.10470)
+
 
 
 ### Utilizing External Knowledge
@@ -65,6 +67,7 @@ Contributed by [Yankai Lin](http://www.thunlp.org/~lyk/), Deming Ye and Haozhe J
 2. **R^3: Reinforced Reader-Ranker for Open-Domain Question Answering.** Shuohang Wang, Mo Yu, Xiaoxiao Guo, Zhiguo Wang, Tim Klinger, Wei Zhang, Shiyu Chang, Gerald Tesauro, Bowen Zhou, and Jing Jiang. AAAI 2018. [paper](https://arxiv.org/pdf/1709.00023)
 3. **Evidence Aggregation for Answer Re-Ranking in Open-Domain Question Answering.** Shuohang Wang, Mo Yu, Jing Jiang, Wei Zhang, Xiaoxiao Guo, Shiyu Chang, Zhiguo Wang, Tim Klinger, Gerald Tesauro, and Murray Campbell. ICLR 2018. [paper](https://arxiv.org/pdf/1711.05116)
 4. **Denoising Distantly Supervised Open-Domain Question Answering.** Yankai Lin, Haozhe Ji, Zhiyuan Liu, and Maosong Sun.  ACL 2018. [paper](http://aclweb.org/anthology/P18-1161)
+5. **Answering Complex Open-domain Questions Through Iterative Query Generation.** Peng Qi, Xiaowen Lin, Leo Mehr, Zijian Wang, Christopher D. Manning. EMNLP 2019. [paper](https://arxiv.org/abs/1910.07000v1)
 
 
 
@@ -97,3 +100,4 @@ Tomáš Kočiský, Jonathan Schwarz, Phil Blunsom, Chris Dyer, Karl Moritz Herma
 21. (DuReader) **DuReader: a Chinese Machine Reading Comprehension Dataset from
 Real-world Applications.** Wei He, Kai Liu, Yajuan Lyu, Shiqi Zhao, Xinyan Xiao, Yuan Liu, Yizhong Wang, Hua Wu, Qiaoqiao She, Xuan Liu, Tian Wu, and Haifeng Wang. ACL 2018 Workshop. [paper](https://arxiv.org/abs/1711.05073)
 22. (CliCR) **CliCR: a Dataset of Clinical Case Reports for Machine Reading Comprehension.** Simon Suster and Walter Daelemans. NAACL 2018. [paper](http://aclweb.org/anthology/N18-1140) 
+23. (QUOREF) **Quoref: A Reading Comprehension Dataset with Questions Requiring Coreferential Reasoning.** Pradeep Dasigi, Nelson F. Liu, Ana Marasović, Noah A. Smith, Matt Gardner. EMNLP2019. [paper](https://arxiv.org/abs/1908.05803) 
